@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547553782 source:c:\users\natan\desktop\esgi\2 esgi\c\insert_into\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
